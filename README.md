@@ -1,6 +1,6 @@
 # capacitor-plugin-python
 
-use python
+close
 
 ## Install
 
